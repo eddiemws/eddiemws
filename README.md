@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Edwin Mwangi</h1>
 <h3 align="center">A passionate mobile developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTiZDGH_U3Xhcyh_TvZpHnSmcbx3l5eG7ufg&usqp=CAU ">
-<img align="center" alt="Coding" width="500" height="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKALXUpTHOPlAKqpGT6ydZs9QiyyEt1E0yCg&usqp=CAU">
+<img align="center" alt="Coding" width="400" height="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKALXUpTHOPlAKqpGT6ydZs9QiyyEt1E0yCg&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eddiemws&label=Profile%20views&color=0e75b6&style=flat" alt="eddiemws" /> </p>
 
