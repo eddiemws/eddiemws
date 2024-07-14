@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Edwin Mwangi. K. ...</h1>
 <h3 align="center">A passionate mobile developer from Kenya</h3>
-<img align="right" alt="Coding" width="400"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTiZDGH_U3Xhcyh_TvZpHnSmcbx3l5eG7ufg&usqp=CAU "> .
+
 <img align="left" alt="Coding" width="400"  src="https://gifdb.com/images/high/ai-humanoid-girl-neon-0byngj723ojhu25b.webp"> .
 <br>
 
