@@ -2,11 +2,9 @@
 <h1 align="center">Hi 👋, I'm Edwin Mwangi. K. ...</h1>
 <h3 align="center">A passionate mobile developer from Kenya</h3>
 <img align="right" alt="Coding" width="400"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTiZDGH_U3Xhcyh_TvZpHnSmcbx3l5eG7ufg&usqp=CAU "> .
-
 <img align="left" alt="Coding" width="400"  src="https://gifdb.com/images/high/ai-humanoid-girl-neon-0byngj723ojhu25b.webp"> .
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eddiemws&label=Profile%20views&color=0e75b6&style=flat" alt="eddiemws" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eddiemws" alt="eddiemws" /></a> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **React Native**
 
