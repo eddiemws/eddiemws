@@ -5,6 +5,7 @@
   <img align="left" alt="Coding" width="400" src="https://gifdb.com/images/high/ai-humanoid-girl-neon-0byngj723ojhu25b.webp">
 </div>
 
+<div class="about" align="right">
 -  I regularly write articles on [https://medium.com/@eddiemws](https://medium.com/@eddiemws)
 
 -  Ask me about **Android , python**
@@ -12,8 +13,7 @@
 -  How to reach me **eddiemws@gmail.com**
 
 - ⚡ Fun fact **I'm also an Author**
-
-
+</div>
 
 
 
