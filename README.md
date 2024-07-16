@@ -6,7 +6,7 @@
 </div>
 
 <div class="about" align="left">
--  I regularly write articles on [https://medium.com/@eddiemws](https://medium.com/@eddiemws)
+-  I regularly write articles on [https://medium.com/@eddiemws]
 
 -  Ask me about **Android , python**
 
