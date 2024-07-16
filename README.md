@@ -2,10 +2,10 @@
 <h3 align="center">A passionate mobile developer from Kenya</h3>
 
 <div class="image-container" style="margin-left=10">
-  <img align="left" alt="Coding" width="400" src="https://gifdb.com/images/high/ai-humanoid-girl-neon-0byngj723ojhu25b.webp">
+  <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/ai-humanoid-girl-neon-0byngj723ojhu25b.webp">
 </div>
 
-<div class="about" align="right">
+<div class="about" align="left">
 -  I regularly write articles on [https://medium.com/@eddiemws](https://medium.com/@eddiemws)
 
 -  Ask me about **Android , python**
