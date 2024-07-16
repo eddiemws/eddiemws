@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Edwin Mwangi. K. ...</h1>
 <h3 align="center">A passionate mobile developer from Kenya</h3>
 
-<img align="left" alt="Coding" width="400" margin=10  src="https://gifdb.com/images/high/ai-humanoid-girl-neon-0byngj723ojhu25b.webp">
+| ![Coding](https://gifdb.com/images/high/ai-humanoid-girl-neon-0byngj723ojhu25b.webp) | 
+|---|---|
+| -  I regularly write articles on [https://medium.com/@eddiemws](https://medium.com/@eddiemws) <br>
+  -  Ask me about **Android , python** <br>
+  -  How to reach me **eddiemws@gmail.com** <br>
+  - ⚡ Fun fact **I'm also an Author** |
 
-- 📝 I regularly write articles on [https://medium.com/@eddiemws](https://medium.com/@eddiemws)
-
-- 💬 Ask me about **Android , python**
-
-- 📫 How to reach me **eddiemws@gmail.com**
-
-- ⚡ Fun fact **I'm also an Author**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
