@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edwin Mwangi. K. ...</h1>
 <h3 align="center">A passionate mobile developer from Kenya</h3>
 
-<div class="image-container">
+<div class="image-container" style="margin-left=10">
   <img align="left" alt="Coding" width="400" src="https://gifdb.com/images/high/ai-humanoid-girl-neon-0byngj723ojhu25b.webp">
 </div>
 
@@ -13,9 +13,7 @@
 
 - ⚡ Fun fact **I'm also an Author**
 
-.image-container {
-  margin-left: 20px; /* Adjust the margin value as needed */
-}
+
 
 
 
